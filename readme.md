@@ -1,10 +1,10 @@
 # Software Engineering HW
-- compile
+- compile<br>
 `
 javac PhoneBookController.java
 `
 
-- run
+- run<br>
 `
 java PhoneBookController
 `
