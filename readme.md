@@ -1,13 +1,13 @@
 # Software Engineering HW
 - compile<br>
-`
+```plain
 javac PhoneBookController.java
-`
+```
 
 - run<br>
-`
+```plain
 java PhoneBookController
-`
+```
 ***
 - command
     - add
