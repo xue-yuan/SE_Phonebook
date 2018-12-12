@@ -9,10 +9,10 @@ javac PhoneBookController.java
 java PhoneBookController
 ```
 - command
-    > add
-    > delete
-    > update
-    > search
-    > quit
+    `add`
+    `delete`
+    `update`
+    `search`
+    `quit`
 - Enbled Text Database 
 - Disabled SQL 
