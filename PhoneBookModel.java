@@ -101,7 +101,7 @@ public class PhoneBookModel {
 	 */
 	public PhoneBookModel(PhoneBookView view) {
 		phonebookview = view;
-		phoneBook = new SQLiteDatabase();
-		// phoneBook = new TextDatabase("phonebook.txt");
+		// phoneBook = new SQLDatabase();
+		phoneBook = new TextDatabase("phonebook.txt");
 	}
 }
